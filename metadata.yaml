@@ -1,0 +1,34 @@
+_repo: Footsteps-of-Dr-Johnson-Scotland_57715
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+creator:
+  author:
+    agent_name: Hill, George Birkbeck Norman
+    alias: Hill, G. Birkbeck (George Birkbeck)
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '2931'
+    url: http://www.gutenberg.org/2009/agents/2931
+    wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
+description: ''
+gutenberg_issued: '2018-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Footsteps of Dr. Johnson
+
+  (Scotland)'
+url: http://www.gutenberg.org/ebooks/57715
